@@ -4,7 +4,7 @@ Project Overview
 This project performs an Exploratory Data Analysis (EDA) on the Titanic dataset from Kaggle. The goal is to investigate factors that influenced passenger survival and evaluate 3 hypotheses using statistical analysis and data visualization.
 
 
-Objectives
+## Objectives
 The primary objective of this project is to analyze passenger characteristics and identify factors associated with survival aboard the Titanic.
 
 The following hypotheses were investigated:
@@ -13,10 +13,10 @@ Survival rate is associated with passenger class.
 Survival rate is associated with gender.
 Survival rate is associated with age.
 
-Dataset
+## Dataset
 Source: Kaggle Titanic Dataset
 
-Project Structure
+## Project Structure
 Titanic-Survival-Analysis/ │
 
 ├── data/ 
@@ -43,7 +43,7 @@ Titanic-Survival-Analysis/ │
 
 
 
-Methodology
+## Methodology
 1. Data Cleaning
 -Imported the dataset into Python using Pandas.
 - Inspected data types and missing values.
