@@ -17,7 +17,8 @@ Dataset
 Source: Kaggle Titanic Dataset
 
 Project Structure
-Titanic-Survival-Analysis/ │ 
+Titanic-Survival-Analysis/ │
+
 ├── data/ 
 
 │ └── titanic.csv │ 
