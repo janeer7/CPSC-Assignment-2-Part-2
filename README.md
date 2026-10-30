@@ -19,16 +19,27 @@ Source: Kaggle Titanic Dataset
 Project Structure
 Titanic-Survival-Analysis/ │ 
 ├── data/ 
+
 │ └── titanic.csv │ 
+
 ├── src/ 
+
 │ └── titanic_analysis.ipynb │ 
+
 ├── docs/ 
+
 ├── results/ 
+
 │ └── Titanic_Summary_Report.pdf │ 
+
 │ └──survival_by_class.png │ 
+
 │ └──survival_by_gender.png │ 
+
 │ └──survival_by_age.png 
+
 ├── README.md
+
 
 
 Methodology
